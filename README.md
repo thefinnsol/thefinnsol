@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, I’m Finn Solvik—an indie developer focused on building modern, open source web apps with Laravel and PHP.
 
-<!--
-**thefinnsol/thefinnsol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My mission is to create software that’s powerful, beautifully designed, and easy for anyone to use or adapt.
 
-Here are some ideas to get you started:
+I release full, production-grade applications under open licenses—tools for devs, solo founders, and small teams who want to own their stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You’ll recognize my work: clean architecture, practical features, and a focus on real-world needs.
+
+💻 Always building, never standing still
+
+🔄 Everything open, always improving
+
+☕ Sponsor or collaborate: finnsolvik@gmail.com

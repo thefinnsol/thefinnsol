@@ -1,4 +1,4 @@
-Hi, I’m Finn Solvik—an indie developer focused on building modern, open source web apps with Laravel and PHP.
+Hi, I’m Finn Solvik—an indie developer focused on building modern, open source web apps.
 
 My mission is to create software that’s powerful, beautifully designed, and easy for anyone to use or adapt.
 
